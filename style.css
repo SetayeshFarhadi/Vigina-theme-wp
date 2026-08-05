@@ -1,0 +1,13 @@
+/*
+Theme Name: Sabz Learn WordPress Theme
+Theme URI: https://example.com
+Author: Setayesh Farhadi
+Description: Setayesh Farhadi's first WordPress theme
+Version: 1.0
+Text Domain: mytheme
+*/
+
+body{
+    margin:0;
+    font-family:sans-serif;
+}
